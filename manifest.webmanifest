@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "reyanimasi",
+  "short_name": "reyanimasi",
+  "description": "reyanimasi, Seamless Animated Loop Maker. Bikin animasi loop mulus dari bahan sendiri, langsung di HP.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F5FF",
+  "theme_color": "#F4F5FF",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
